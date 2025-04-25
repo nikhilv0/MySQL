@@ -75,3 +75,8 @@ ALTER TABLE employees MODIFY email varchar(20);
 ALTER TABLE employees MODIFY phone_number varchar(10);
 ALTER TABLE employees MODIFY job_title VARCHAR(200);
 
+SELECT * FROM Product;
+SELECT * FROM accounts;
+SELECT * FROM employees;
+SELECT * FROM customers;
+SELECT * FROM registrations;
