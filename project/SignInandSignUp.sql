@@ -1,0 +1,1 @@
+SELECT * FROM pages.sign_up;
